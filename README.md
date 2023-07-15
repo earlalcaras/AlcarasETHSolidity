@@ -4,7 +4,7 @@ contract GoldCoin {
 
     string public tokenName = "Tenchi";
     string public tokenAbbrv = "Masaki";
-    uint public totalSupply = 6;
+    uint public totalSupply = 0;
 
     mapping(address => uint) public balances;
 
