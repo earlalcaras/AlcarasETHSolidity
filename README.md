@@ -22,6 +22,6 @@
         if (balances[add] >= val){
         totalSupply -= val;
         balances[add] -= val; 
+            }
         }
     }
-}
