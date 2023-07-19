@@ -1,6 +1,6 @@
 #Installing
 
-#Executing program
+# Executing program
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 contract GoldCoin {
