@@ -1,7 +1,7 @@
 # Installing
 
 # Executing program
-contract GoldCoin {
+    contract GoldCoin {
 
     // Public variables
         string public tokenName="Tenchi";
