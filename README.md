@@ -1,5 +1,3 @@
-# Installing
-
 # Executing program
     contract GoldCoin {
 
