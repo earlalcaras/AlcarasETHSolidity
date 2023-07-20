@@ -42,3 +42,6 @@ look for a tab on the left side of the page that has a "+" symbol in it. Click t
             }
         }
     }
+
+# AUTHOR
+Earl Francis N. Alcaras - 8213269@ntc.edu.ph
