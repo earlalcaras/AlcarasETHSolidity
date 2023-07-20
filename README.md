@@ -16,22 +16,24 @@ look for a tab on the left side of the page that has a "+" symbol in it. Click t
    
     contract GoldCoin {
 
-    // Public variables
+ // Public variables
+        
         string public tokenName="Tenchi";
         string public tokenAbbrv="Masaki";
         uint public totalSupply=0;
 
-    // Mapping variable 
+// Mapping variable 
+        
         mapping(address => uint) public balances;
 
-    // Mint function
+// Mint function
         
         function mint(address recipient, uint value) public {
         totalSupply += value;
         balances[recipient] += value;
     }
     
-    // Burn function
+   // Burn function
        
         function burn(address add, uint val) public {
         if (balances[add] >= val){
