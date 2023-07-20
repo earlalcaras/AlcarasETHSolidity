@@ -1,4 +1,5 @@
-# Executing program
+# ETHEREUM
+The Ethereum Virtual Machine, known as EVM, is the name of the computer that Ethereum uses. EVM is, at its core, a single decentralized system.
    
     contract GoldCoin {
 
